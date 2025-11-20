@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.linkedin.com/in/marco-di-cerbo">
-  <img src="[[https://img.shields.io/badge/-/-?logo=linkedin&logoColor=white&label=&color=0A66C2&style=flat-square](https://cdn.jsdelivr.net/npm/@hyper.fun/carbon-icon-logo-linkedin@1.3.0/esm/index.min.js)](https://hyper.fun/c/carbon-icon-logo-linkedin/1.3.0)" width="32" height="32" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/TUO-USERNAME">
+  <img src="./LI-In-Bug.png" width="32" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/marcodicerbo" style="margin-left: 8px;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" height="32" alt="GitHub" />
