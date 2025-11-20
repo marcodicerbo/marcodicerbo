@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋 My name is Marco  
+# Natural Scientist   
 <!--
 **marcodicerbo/marcodicerbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LinkedIn](https://img.shields.io/badge/-/-?logo=linkedin&logoColor=white&label=&color=0A66C2&style=flat-square)](https://www.linkedin.com/in/marco-di-cerbo)
