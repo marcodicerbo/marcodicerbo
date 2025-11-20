@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 Gradueted in Natural Sciences, Conservation & Global Change at University of Naples "Federico II"  
+- 🌱 I'm interested in understanding Nature and its processes  
+- 📧 You can contact me at dicerbo.marco@libero.it  
+#### Where you can find me
 <a href="https://www.linkedin.com/in/TUO-USERNAME">
   <img src="./LI-In-Bug.png" width="32" alt="LinkedIn"/>
 </a>
