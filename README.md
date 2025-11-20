@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![LinkedIn](https://img.shields.io/badge/-/-?logo=linkedin&logoColor=white&label=&color=0A66C2&style=flat-square)](https://www.linkedin.com/in/marco-di-cerbo)
+[![LinkedIn logo](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg)](https://www.linkedin.com/in/marco-di-cerbo)
