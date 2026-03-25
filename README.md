@@ -1,5 +1,5 @@
 ## Hi 👋 My name is Marco  
-### Natural Scientist   
+### Junior Data Analyst & Natural Scientist   
 <!--
 **marcodicerbo/marcodicerbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📚 Graduated in Natural Sciences, Conservation & Global Change at University of Naples "Federico II"  
-- 🌱 I'm interested in understanding Nature and its processes  
-- 📧 You can contact me at dicerbo.marco@libero.it  
+- 📚 Graduated in Natural Sciences, Conservation & Global Change at University of Naples "Federico II"
+- 🎓 Professional course in Data Analytics (Excel, SQL, Python)
+- 🌱 I enjoy exploring environmental data to understand natural systems  
+- 📧 You can contact me at dicerbo.marco@libero.it
+
+#### Skills
+- SQL · Python · R studio · Excel (advanced) · QGIS
+
 #### Where you can find me
 <a href="https://www.linkedin.com/in/TUO-USERNAME">
   <img src="./LI-In-Bug.png" width="32" alt="LinkedIn"/>
