@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📚 Graduated in Natural Sciences, Conservation & Global Change at University of Naples "Federico II"
 - 🎓 Professional course in Data Analytics (Excel, SQL, Python)
 - 🌱 I enjoy exploring environmental data to understand natural systems  
-- 📧 You can contact me at dicerbo.marco@libero.it
+- 📧 You can contact me at dicerbo.marco@libero.it or dicerbo.marco@gmail.com
 
 #### Skills
 - SQL · Python · R studio · Excel (advanced) · QGIS
