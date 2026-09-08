@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌋 Currently undertaking a research traineeship in volcanology at Vrije Universiteit Brussel (VUB), Brussels
 - 📚 Graduated in Natural Sciences, Conservation & Global Change at University of Naples "Federico II"
 - 🎓 Professional course in Data Analytics (Excel, SQL, Python)
 - 🌱 I enjoy exploring environmental data to understand natural systems  
 - 📧 You can contact me at dicerbo.marco@libero.it or dicerbo.marco@gmail.com
 
 #### Skills
-- SQL · Python · R studio · Excel (advanced) · QGIS
+- SQL · Python · R studio · Excel (advanced) · QGIS · GEE
 
 #### Where you can find me
 <a href="https://www.linkedin.com/in/TUO-USERNAME">
