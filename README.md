@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/marcodicerbo" style="margin-left: 8px;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" height="32" alt="GitHub" />
 </a>
+<a href="https://effulgent-malasada-30aaad.netlify.app/">
+  <img src="./Marco_Di_Cerbo_QR.png" width="160" alt="Open my CV in English or French"/>
+</a>
+[View my CV in English or French](https://effulgent-malasada-30aaad.netlify.app/)
