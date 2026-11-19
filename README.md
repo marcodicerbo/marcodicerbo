@@ -32,5 +32,4 @@ Here are some ideas to get you started:
 </a>
 
 #### CV
-<br>
 <a href="https://effulgent-malasada-30aaad.netlify.app/">View or download my CV</a>
