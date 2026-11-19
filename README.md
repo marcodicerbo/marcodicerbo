@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### Skills
 - SQL · Python · R studio · Excel (advanced) · QGIS · GEE
 
-#### Where you can find me
+#### Where you can find me 
 <a href="https://www.linkedin.com/in/TUO-USERNAME">
   <img src="./LI-In-Bug.png" width="32" alt="LinkedIn"/>
 </a>
