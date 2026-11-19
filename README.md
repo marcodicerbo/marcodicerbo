@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/marcodicerbo" style="margin-left: 8px;">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" height="32" alt="GitHub" />
 </a>
+<a>
 <br>
 <a href="https://effulgent-malasada-30aaad.netlify.app/">View my CV</a>
+</a>
