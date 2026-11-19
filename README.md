@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 </a>
 
 #### CV
-<a href="https://marcodicerbo-curriculum-vitae.netlify.app/">View or download my CV</a>
+<a href="https://marcodicerbo-curriculum-vitae.netlify.app/">View my CV</a>
